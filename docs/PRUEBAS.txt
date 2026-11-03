@@ -1,0 +1,48 @@
+Café Overflow - verificación local
+Fecha: 3 de noviembre de 2026
+Comando: python -m unittest discover -s tests -v
+
+test_client_defaults (test_app.ApplicationTest.test_client_defaults) ... ok
+test_completion_earns_once (test_app.ApplicationTest.test_completion_earns_once) ... ok
+test_concurrent_completion (test_app.ApplicationTest.test_concurrent_completion) ... ok
+test_concurrent_last_item (test_app.ApplicationTest.test_concurrent_last_item) ... ok
+test_concurrent_pending_same_client (test_app.ApplicationTest.test_concurrent_pending_same_client) ... ok
+test_duplicate_email (test_app.ApplicationTest.test_duplicate_email) ... ok
+test_email_validation (test_app.ApplicationTest.test_email_validation) ... ok
+test_empty_order (test_app.ApplicationTest.test_empty_order) ... ok
+test_idempotent_registration (test_app.ApplicationTest.test_idempotent_registration) ... ok
+test_invalid_quantities (test_app.ApplicationTest.test_invalid_quantities) ... ok
+test_mid_promotion_affects_next_order_only (test_app.ApplicationTest.test_mid_promotion_affects_next_order_only) ... ok
+test_no_backward_states (test_app.ApplicationTest.test_no_backward_states) ... ok
+test_no_skipped_states (test_app.ApplicationTest.test_no_skipped_states) ... ok
+test_paid_order_allows_new_order (test_app.ApplicationTest.test_paid_order_allows_new_order) ... ok
+test_pending_blocks_second_order (test_app.ApplicationTest.test_pending_blocks_second_order) ... ok
+test_points_only_redeem_on_following_order (test_app.ApplicationTest.test_points_only_redeem_on_following_order) ... ok
+test_price_snapshot (test_app.ApplicationTest.test_price_snapshot) ... ok
+test_quote_has_no_side_effects (test_app.ApplicationTest.test_quote_has_no_side_effects) ... ok
+test_repeated_lines_combined_before_stock_validation (test_app.ApplicationTest.test_repeated_lines_combined_before_stock_validation) ... ok
+test_request_key_cannot_change_order (test_app.ApplicationTest.test_request_key_cannot_change_order) ... ok
+test_reserve_stock_on_registration (test_app.ApplicationTest.test_reserve_stock_on_registration) ... ok
+test_senior_promotion (test_app.ApplicationTest.test_senior_promotion) ... ok
+test_stock_exceeded (test_app.ApplicationTest.test_stock_exceeded) ... ok
+test_table_required (test_app.ApplicationTest.test_table_required) ... ok
+test_takeaway_and_table (test_app.ApplicationTest.test_takeaway_and_table) ... ok
+test_transaction_rollback (test_app.ApplicationTest.test_transaction_rollback) ... ok
+test_unknown_product (test_app.ApplicationTest.test_unknown_product) ... ok
+test_assets_and_no_directory_traversal (test_app.HttpTest.test_assets_and_no_directory_traversal) ... ok
+test_full_http_flow_ignores_forged_total (test_app.HttpTest.test_full_http_flow_ignores_forged_total) ... ok
+test_malformed_json (test_app.HttpTest.test_malformed_json) ... ok
+test_wrong_origin_rejected (test_app.HttpTest.test_wrong_origin_rejected) ... ok
+test_layer_import_boundaries (test_app.IsolationTest.test_layer_import_boundaries) ... ok
+test_discounts (test_app.RulesTest.test_discounts) ... ok
+test_exact_promotion_boundaries (test_app.RulesTest.test_exact_promotion_boundaries) ... ok
+test_half_up_rounding (test_app.RulesTest.test_half_up_rounding) ... ok
+test_insufficient_points (test_app.RulesTest.test_insufficient_points) ... ok
+test_no_negative_total (test_app.RulesTest.test_no_negative_total) ... ok
+test_points_after_level_discount (test_app.RulesTest.test_points_after_level_discount) ... ok
+test_points_floor_per_order (test_app.RulesTest.test_points_floor_per_order) ... ok
+
+----------------------------------------------------------------------
+Ran 39 tests in 4.985s
+
+OK

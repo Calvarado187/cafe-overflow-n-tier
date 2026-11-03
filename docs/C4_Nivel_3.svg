@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="499" height="535" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 535" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="535"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-535)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="120" y="475" width="259" height="54" rx="7" ry="7" style="stroke: rgb(14%,24%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,24%,20%); fill-rule: evenodd;"/>
+			<text x="202.2685546875" y="512" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,1024) scale(1,-1)">C1 · Aplicación web</text>
+			<text x="181.01171875" y="499" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,998) scale(1,-1)">[Contenedor externo al alcance de C2]</text>
+			<rect x="4" y="82" width="491" height="373" rx="8" ry="8" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd; stroke-dasharray: 5, 3;"/>
+			<text x="14" y="440" style="font-family: Arial-Bold; font-size: 8px;fill: rgb(19%,40%,30%); stroke:none;" transform="translate(0,880) scale(1,-1)">C2 · SERVIDOR DE APLICACIÓN PYTHON</text>
+			<rect x="130" y="357" width="239" height="68" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="210.056640625" y="408" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,816) scale(1,-1)">Adaptador HTTP</text>
+			<text x="185.68359375" y="395" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,790) scale(1,-1)">[Componente · presentation/http.py]</text>
+			<text x="172.92763671875" y="382" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,764) scale(1,-1)">Convierte entradas y salidas HTTP/JSON</text>
+			<rect x="25" y="237" width="218" height="75" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="81.47802734375" y="295" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,590) scale(1,-1)">Servicio de aplicación</text>
+			<text x="71.30078125" y="282" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,564) scale(1,-1)">[Componente · negocio/servicio.py]</text>
+			<text x="82.3256103515625" y="269" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,538) scale(1,-1)">Casos de uso, validaciones,</text>
+			<text x="76.7895751953125" y="256" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,512) scale(1,-1)">stock y ciclo de vida del pedido</text>
+			<rect x="294" y="237" width="180" height="75" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="333.99267578125" y="295" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,590) scale(1,-1)">Políticas del dominio</text>
+			<text x="323.96484375" y="282" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,564) scale(1,-1)">[Componente · negocio/reglas.py]</text>
+			<text x="346.1656982421875" y="269" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,538) scale(1,-1)">Descuentos, puntos,</text>
+			<text x="347.5517333984375" y="256" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,512) scale(1,-1)">ascensos y estados</text>
+			<rect x="25" y="106" width="218" height="72" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="93.43603515625" y="161" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,322) scale(1,-1)">Puertos de datos</text>
+			<text x="71.517578125" y="148" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,296) scale(1,-1)">[Componente · negocio/puertos.py]</text>
+			<text x="88.3398681640625" y="135" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,270) scale(1,-1)">Repository y UnitOfWork</text>
+			<text x="98.939794921875" y="122" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,244) scale(1,-1)">Contratos, sin SQL</text>
+			<rect x="294" y="106" width="180" height="72" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="341.49755859375" y="161" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,322) scale(1,-1)">Adaptador SQLite</text>
+			<text x="333.974609375" y="148" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,296) scale(1,-1)">[Componente · persistencia]</text>
+			<text x="338.2041015625" y="135" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,270) scale(1,-1)">DAO + unidad de trabajo</text>
+			<text x="330.72275390625" y="122" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,244) scale(1,-1)">Consultas, mapeos y commit</text>
+			<rect x="294" y="0" width="180" height="54" rx="7" ry="7" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<text x="339.263671875" y="37" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,74) scale(1,-1)">C3 · Base de datos</text>
+			<text x="345.08984375" y="24" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,48) scale(1,-1)">[Contenedor · SQLite]</text>
+			<path d="M 249,475 L 249,425 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="249 425, 251.6098 430.4027, 246.3902 430.4027" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="223.77734375" y="461" width="50.4453125" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="226.77734375" y="463" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,926) scale(1,-1)">HTTP/JSON</text>
+			<path d="M 200,357 L 200,335 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 200,335 L 134,335 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 134,335 L 134,312 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="134 312, 136.6098 317.4027, 131.3902 317.4027" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="84.533203125" y="343" width="78.93359375" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="87.533203125" y="345" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,690) scale(1,-1)">Invoca casos de uso</text>
+			<path d="M 243,274 L 294,274 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="294 274, 288.5973 276.6098, 288.5973 271.3902" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="256.88671875" y="281" width="20.2265625" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="259.88671875" y="283" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,566) scale(1,-1)">Usa</text>
+			<path d="M 134,237 L 134,178 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="134 178, 136.6098 183.4027, 131.3902 183.4027" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="92.75" y="206" width="82.5" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="95.75" y="208" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,416) scale(1,-1)">Depende del contrato</text>
+			<path d="M 294,141 L 243,141 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="243 141, 248.4027 138.3902, 248.4027 143.6098" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="245.1015625" y="189" width="47.796875" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="248.1015625" y="191" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,382) scale(1,-1)">Implementa</text>
+			<path d="M 384,106 L 384,54 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="384 54, 386.6098 59.40268, 381.3902 59.40268" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="358.099609375" y="63" width="51.80078125" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="361.099609375" y="65" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,130) scale(1,-1)">SQL / sqlite3</text>
+		</g>
+	</g>
+</svg>

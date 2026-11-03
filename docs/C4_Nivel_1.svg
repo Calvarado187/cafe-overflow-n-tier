@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="499" height="365" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 365" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="365"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-365)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="5" y="255" width="192" height="85" rx="7" ry="7" style="stroke: rgb(14%,24%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,24%,20%); fill-rule: evenodd;"/>
+			<text x="84.330078125" y="323" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,646) scale(1,-1)">Cliente</text>
+			<text x="83.87890625" y="310" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,620) scale(1,-1)">[Persona]</text>
+			<text x="51.633642578125" y="297" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,594) scale(1,-1)">Pide en mesa o para llevar</text>
+			<text x="47.4876953125" y="284" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,568) scale(1,-1)">Consulta y redime DevPoints</text>
+			<rect x="302" y="255" width="192" height="85" rx="7" ry="7" style="stroke: rgb(14%,24%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,24%,20%); fill-rule: evenodd;"/>
+			<text x="356.86962890625" y="323" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,646) scale(1,-1)">Personal del café</text>
+			<text x="380.87890625" y="310" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,620) scale(1,-1)">[Persona]</text>
+			<text x="344.945654296875" y="297" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,594) scale(1,-1)">Gestiona menú y existencias</text>
+			<text x="352.3236572265625" y="284" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,568) scale(1,-1)">Confirma pago y entrega</text>
+			<rect x="115" y="65" width="269" height="104" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="195.31298828125" y="152" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,304) scale(1,-1)">Sistema Café Overflow</text>
+			<text x="211.0390625" y="139" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,278) scale(1,-1)">[Sistema de software]</text>
+			<text x="177.0634521484375" y="126" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,252) scale(1,-1)">Gestiona productos, clientes y pedidos.</text>
+			<text x="171.5314697265625" y="113" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,226) scale(1,-1)">Aplica descuentos, DevPoints y ascensos.</text>
+			<text x="190.6765869140625" y="100" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,200) scale(1,-1)">Mantiene existencias y estados.</text>
+			<path d="M 101,255 L 101,208 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 101,208 L 180,208 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 180,208 L 180,169 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="180 169, 182.6098 174.4027, 177.3902 174.4027" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="55.861328125" y="220" width="104.27734375" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="58.861328125" y="222" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,444) scale(1,-1)">Registra y consulta pedidos</text>
+			<path d="M 398,255 L 398,208 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 398,208 L 319,208 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 319,208 L 319,169 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="319 169, 321.6098 174.4027, 316.3902 174.4027" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="331.529296875" y="220" width="110.94140625" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="334.529296875" y="222" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,444) scale(1,-1)">Administra y procesa pedidos</text>
+			<text x="112.490234375" y="20" style="font-family: Arial; font-size: 8px;fill: rgb(41%,45%,42%); stroke:none;" transform="translate(0,40) scale(1,-1)">Personas: verde oscuro · Sistema propio: verde · Flecha: interacción iniciada</text>
+		</g>
+	</g>
+</svg>

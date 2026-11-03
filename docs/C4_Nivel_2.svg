@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="499" height="485" preserveAspectRatio="xMinYMin meet" viewBox="0 0 499 485" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="499" height="485"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-485)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="85" y="414" width="329" height="54" rx="7" ry="7" style="stroke: rgb(14%,24%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,24%,20%); fill-rule: evenodd;"/>
+			<text x="187.5322265625" y="451" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,902) scale(1,-1)">Cliente / Personal del café</text>
+			<text x="230.37890625" y="438" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,876) scale(1,-1)">[Personas]</text>
+			<rect x="20" y="8" width="459" height="360" rx="8" ry="8" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd; stroke-dasharray: 5, 3;"/>
+			<text x="30" y="353" style="font-family: Arial-Bold; font-size: 8px;fill: rgb(19%,40%,30%); stroke:none;" transform="translate(0,706) scale(1,-1)">SISTEMA CAFÉ OVERFLOW</text>
+			<rect x="95" y="271" width="309" height="70" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="168.36962890625" y="324" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,648) scale(1,-1)">C1 · Aplicación web en navegador</text>
+			<text x="178.36328125" y="311" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,622) scale(1,-1)">[Contenedor · HTML / CSS / JavaScript]</text>
+			<text x="175.4504638671875" y="298" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,596) scale(1,-1)">Captura entradas y renderiza resultados</text>
+			<rect x="95" y="143" width="309" height="76" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="185.31298828125" y="202" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,404) scale(1,-1)">C2 · Servidor de aplicación</text>
+			<text x="173.453125" y="189" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,378) scale(1,-1)">[Contenedor · Python / biblioteca estándar]</text>
+			<text x="160.684326171875" y="176" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,352) scale(1,-1)">Adapta HTTP, ejecuta negocio y acceso a datos</text>
+			<text x="179.3775634765625" y="163" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,326) scale(1,-1)">Tres capas lógicas dentro del servidor</text>
+			<rect x="95" y="26" width="309" height="64" rx="7" ry="7" style="stroke: rgb(19%,40%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(19%,40%,30%); fill-rule: evenodd;"/>
+			<text x="204.763671875" y="73" style="font-family: Arial-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,146) scale(1,-1)">C3 · Base de datos</text>
+			<text x="185.0234375" y="60" style="font-family: Arial; font-size: 8px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,120) scale(1,-1)">[Contenedor · SQLite / archivo local]</text>
+			<text x="182.8345458984375" y="47" style="font-family: Arial; font-size: 8.3px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,94) scale(1,-1)">Productos, clientes, pedidos e ítems</text>
+			<path d="M 249,414 L 249,341 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="249 341, 251.6098 346.4027, 246.3902 346.4027" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="217.9921875" y="387" width="62.015625" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="220.9921875" y="389" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,778) scale(1,-1)">Usa formularios</text>
+			<path d="M 249,271 L 249,219 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="249 219, 251.6098 224.4027, 246.3902 224.4027" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="163.0859375" y="242" width="171.828125" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="166.0859375" y="244" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,488) scale(1,-1)">Solicita recursos y casos de uso · HTTP/JSON</text>
+			<path d="M 249,143 L 249,90 Z" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="249 90, 251.6098 95.40268, 246.3902 95.40268" style="stroke: rgb(41%,45%,42%); stroke-linecap: butt; stroke-width: 1; fill: rgb(41%,45%,42%); fill-rule: evenodd;"/>
+			<rect x="195.75390625" y="114" width="106.4921875" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="198.75390625" y="116" style="font-family: Arial; font-size: 8px;fill: rgb(14%,24%,20%); stroke:none;" transform="translate(0,232) scale(1,-1)">Lee y escribe · SQL / sqlite3</text>
+		</g>
+	</g>
+</svg>
